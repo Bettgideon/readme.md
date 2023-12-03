@@ -8,4 +8,4 @@ Portfolio:https://bettgideon.github.io/-document-case-resume-portfolio/
 
 ⚙ Technologies, Environments and Development tools VSCode Postman IntelliJ IDEA Netlify Firebase HTML5 CCS3 JavaScript Bootstrap NodeJS Sass Heroku PHP MySQL Git Npm jQuery Prettier Markdown WebStorm PhpStorm Stack Overflow Apache Play Store Windows 10 Android Linux GitHub Ubuntu Ms Publisher Ms Access
 
-🌐 Social Networks X Badge Facebook Badge Instagram Badge Linkedin Badge
+🌐 Social Networks X Badge Facebook Badge Instagram Badge Linkedin Badge WhatsApp badge 
