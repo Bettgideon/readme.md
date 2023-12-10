@@ -1,4 +1,4 @@
-# readme.md
+#readme.md
 
 Hello, I am Gideon Kiprotich Bett, an independent and creative developer who believes in crafting applications and websites that live and run on the web. I specialise in accessibility, performance and usability without sacrificing creativity.
 Here's is the Link to my portfolio 
