@@ -4,7 +4,7 @@ Hello, I am Gideon Kiprotich Bett, an independent and creative developer who bel
 Here's is the Link to my portfolio 
 Portfolio:https://bettgideon.github.io/-document-case-resume-portfolio/
 
-📱 Feel free to reach out for any queries on 0790729721 or through mail kiprotichgideonbett@gmail.com\
+📱 Feel free to reach out for any queries on +254790729721 or through mail kiprotichgideonbett@gmail.com\
 
 ⚙ Technologies, Environments and Development tools VSCode Postman IntelliJ IDEA Netlify Firebase HTML5 CCS3 JavaScript Bootstrap NodeJS Sass Heroku PHP MySQL Git Npm jQuery Prettier Markdown WebStorm PhpStorm Stack Overflow Apache Play Store Windows 10 Android Linux GitHub Ubuntu Ms Publisher Ms Access
 
